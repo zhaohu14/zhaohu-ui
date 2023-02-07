@@ -40,7 +40,7 @@ module.exports = {
 
 ### 项目上传npm共有包模式
 ```
-package.json 文件中 name同层下增加入口文件配置    "main": ""main": "lib/zh.umd.min""
+package.json 文件中 name同层下增加入口文件配置    "main": "lib/zh.umd.min"
 npm login  // 输入用户名 密码 邮箱 以及一次性验证码
 
 npm publish // 提交lib包到npm中
